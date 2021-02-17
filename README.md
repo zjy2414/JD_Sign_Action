@@ -7,7 +7,7 @@
 
 ## 触发方式
 * 点亮`Star`
-* 凌晨4点定时执行
+* 定时执行
 *  自定义：.github/workflows/work.yaml 编辑
 
 ## 注意问题
@@ -42,19 +42,6 @@
 * 登录[领京豆](https://bean.m.jd.com/)；
 * 点击`JDCookie`即可拷贝京东cookie；
 
-## 获取Server酱SCKEY
-
-* github 授权登录[Server酱](http://sc.ftqq.com/3.version)官网；
-* 菜单栏`微信推送`扫描绑定微信；
-* 菜单栏`发送消息`拷贝SCKEY；
-
-
-
-## 效果截图
-
-![WechatIMG3](./images/WechatIMG3.jpeg)
-
-![WechatIMG4](./images/WechatIMG4.jpeg)
 
 #激活
 ## 参考项目
